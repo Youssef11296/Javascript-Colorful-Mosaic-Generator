@@ -3,6 +3,12 @@
     padding:0;
     box-sizing:border-box;
 }
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 .container{
     position:relative;
     width:100%;
@@ -13,8 +19,8 @@
 }
 .container .box{
     position:relative;
-    width:29.7px;
-    height:30px;
+    width:30.18px;
+    height:30.2px;
     border:1px solid #000;
     background-color:#00f;
 }
